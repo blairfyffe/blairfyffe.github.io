@@ -262,10 +262,12 @@ header .header-content .inner p {
 }
 
 #video-background {
+  display: block;
+  margin: 0 auto;
   position: absolute;
   right: 0; 
   bottom: 0;
-  min-width: 400%; 
+  min-width: 300%; 
   min-height: 300%;
   width: auto; 
   height: auto;
