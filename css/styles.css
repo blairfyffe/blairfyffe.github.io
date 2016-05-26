@@ -264,7 +264,6 @@ header .header-content .inner p {
 #video-background {
   display: block;
   margin: 0 auto;
-  position: absolute;
   right: 100; 
   bottom: 0;
   min-width: 300%; 
