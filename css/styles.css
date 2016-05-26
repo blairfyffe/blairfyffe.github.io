@@ -292,7 +292,7 @@ footer {
     }
 
     header .header-content {
-        position: middle;
+        position: absolute;
         top: 80%;
         padding: 0 50px;
         -webkit-transform: translateY(-50%);
@@ -303,7 +303,7 @@ footer {
     header .header-content .inner {
         margin-right: auto;
         margin-left: auto;
-        max-width: 1000px;
+        max-width: 1200px;
     }
 
     header .header-content .inner h1 {
