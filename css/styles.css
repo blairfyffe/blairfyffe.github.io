@@ -380,7 +380,7 @@ textarea {
     position: relative;
     margin: 0 auto;
     max-width: 650px;
-    max-height: 650px;
+    max-width: 650px;
     overflow:hidden;
 }
 
@@ -397,8 +397,6 @@ textarea {
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
-    max-width: 650px;
-    max-height: 650px;
 }
 
 .gallery-box .gallery-box-caption .gallery-box-content {
@@ -407,8 +405,6 @@ textarea {
     width: 100%;
     text-align: center;
     transform: translateY(-50%);
-    max-width: 650px;
-    max-height: 650px;
 }
 
 .gallery-box:hover .gallery-box-caption {
