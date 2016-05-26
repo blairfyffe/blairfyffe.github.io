@@ -268,9 +268,9 @@ header .header-content .inner p {
   position: middle;
   right: 0; 
   bottom: 0;
-  min-width: 80%; 
+  min-width: 300%; 
   min-height: 300%;
-  width: 80%; 
+  width: 80; 
   height: auto;
   z-index: 1;
 }
@@ -286,7 +286,7 @@ footer {
 
 @media(min-width:800px) {
     .icon-lg {
-        font-size: 16px;
+        font-size: 80px;
     }
     
     header {
