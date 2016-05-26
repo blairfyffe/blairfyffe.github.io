@@ -267,7 +267,8 @@ header .header-content .inner p {
   margin-right: auto;
   position: middle;
   right: 0; 
-  bottom: 0; 
+  bottom: 0;
+  min-width: 80%; 
   min-height: 300%;
   width: 80%; 
   height: auto;
@@ -277,7 +278,6 @@ header .header-content .inner p {
 #video-background.collapsing {
   display:block;
   margin: 0 auto;
-  width: 80%; 
 }
 
 footer {
