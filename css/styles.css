@@ -264,7 +264,8 @@ header .header-content .inner p {
 #video-background {
   display: block;
   margin: 0 auto;
-  right: 100; 
+  position: absolute;
+  right: 0; 
   bottom: 0;
   min-width: 300%; 
   min-height: 300%;
@@ -291,7 +292,7 @@ footer {
     }
 
     header .header-content {
-        position: absolute;
+        position: middle;
         top: 80%;
         padding: 0 50px;
         -webkit-transform: translateY(-50%);
