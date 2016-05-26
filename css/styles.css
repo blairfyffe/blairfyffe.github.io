@@ -275,7 +275,8 @@ header .header-content .inner p {
 }
 
 #video-background.collapsing {
-  display:none;
+  display:block;
+  margin: 0 auto;
 }
 
 footer {
